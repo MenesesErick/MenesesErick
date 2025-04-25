@@ -43,7 +43,9 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 
+---
 
+![snake gif](https://github.com/MenesesErick/MenesesErick/blog/output/github-contribution-grid-snake.gif)
 
  
     
