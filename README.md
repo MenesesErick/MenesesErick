@@ -45,7 +45,7 @@
 
 ---
 
-![snake gif](https://github.com/MenesesErick/MenesesErick/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/MenesesErick/MenesesErick/output/snake.svg" alt="Snake animation" />
 
  
     
