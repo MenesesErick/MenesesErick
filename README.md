@@ -24,7 +24,10 @@
 
 ---
 
- ![Streak](https://streak-stats.demolab.com/?user=MenesesErick&theme=algolia)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MenesesErick&theme=algolia" alt="Streak" />
+</div>
 
 ---
 
